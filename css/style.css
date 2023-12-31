@@ -1,0 +1,28 @@
+.screenshot {
+    height: 100px;
+}
+
+.screenshot-wrp {
+    text-align: center;
+}
+
+.screenshot-wrp img {
+    max-height: 200px;
+    max-width: 100%;
+}
+
+.list-group {
+    margin-top: 5px;
+}
+
+.list-group-item {
+    font-size: 1.3rem;
+}
+
+.task {
+    background-color: #ddd;
+    font-size: 20px;
+    font-style: italic;
+    padding: 10px 10px 10px 50px;
+}
+
